@@ -34,7 +34,7 @@ npm install 의존성 설치 -> .env 생성 (\*별도 전달)
 
 #### 접속 주소
 
-[https://bread-and-butter-silk.vercel.app/](https://bread-and-butter-silk.vercel.app/))
+[https://bread-and-butter-silk.vercel.app/](https://bread-and-butter-silk.vercel.app/)
 
 #### 회원 및 관리자 테스트 계정
 
@@ -63,7 +63,9 @@ npm install 의존성 설치 -> .env 생성 (\*별도 전달)
 
 ![데이터 베이스 스키마](https://storage.googleapis.com/elice_04/presentation/page_03.png)
 
-### 3. [API 명세서]()
+### 3. [API 명세서](https://caring-sidecar-47f.notion.site/API-0a4c856d1aea45e1ba70f1718a279906)
+
+### 4. [Notion](https://caring-sidecar-47f.notion.site/TEAM-4-937b3b1db0f949b98bb2f9c6984331da)
 
 <br/>
 
