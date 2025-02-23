@@ -34,7 +34,7 @@ npm install 의존성 설치 -> .env 생성 (\*별도 전달)
 
 #### 접속 주소
 
-[http://kdt-sw-8-team04.elicecoding.com/](http://kdt-sw-8-team04.elicecoding.com/)
+[https://bread-and-butter-silk.vercel.app/](https://bread-and-butter-silk.vercel.app/))
 
 #### 회원 및 관리자 테스트 계정
 
